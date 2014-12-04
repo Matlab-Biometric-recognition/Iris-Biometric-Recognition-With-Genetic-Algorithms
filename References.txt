@@ -1,0 +1,18 @@
+%  References:
+%  Libor Masek, Peter Kovesi. MATLAB Source Code for a Biometric Identification
+%  System Based on Iris Patterns. The School of Computer Science and Software Engineering,
+%  The University of Western Australia. 2003.
+%
+%  The original source code is available at
+%  http://www.csse.uwa.edu.au/~pk/studentprojects/libor/iriscode.zip
+%
+%  Libor Masek's dissertation is available at
+%  http://www.csse.uwa.edu.au/~pk/studentprojects/libor/LiborMasekThesis.pdf
+%
+%  Michael B. Gordy, . "GA.M: A Matlab routine for function maximization
+%  using a Genetic Algorithm". Code is available at
+%  http://ideas.repec.org/e/pgo10.html
+%
+%  All tests were performed with CASIA Iris Image Database available at
+%  http://www.sinobiometrics.com
+%
